@@ -20,7 +20,6 @@ require 'base64'
 require 'openssl'
 require 'chef/data_bag_item'
 require 'yaml'
-require 'yajl'
 require 'open-uri'
 
 # An EncryptedDataBagItem represents a read-only data bag item where
